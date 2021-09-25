@@ -1,0 +1,11 @@
+.card {
+  min-width: 500px;
+  min-height: 5rem;
+  margin: 20px 0 10px 20px;
+  border-radius: 20px;
+  padding: 10px 0;
+  background: #eee;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
